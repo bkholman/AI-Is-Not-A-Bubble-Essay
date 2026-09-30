@@ -1,0 +1,21 @@
+[
+  {
+    "date": "2026-09-20",
+    "source": "The Guardian",
+    "title": "AI slowdown calls justified but collapse of bubble may be more immediate threat",
+    "author": "Heather Stewart",
+    "url": "https://apple.news/AJXWev7-bT0mZJZsG6Pr4dg",
+    "subject": "Debt and deferred compute payments could spread AI losses",
+    "summary": "Heather Stewart argues that the financial structure supporting the AI boom may pose a more immediate threat than the technology’s headline-grabbing safety risks. She points to heavy borrowing for data centers, falling prices for AI services, and persistently expensive infrastructure as reasons to question profitability. Drawing on outside research, she also warns that deferred, take-or-pay compute commitments can conceal the scale of future payment obligations. If customer revenue cannot cover those payments, stress could spread through closely connected technology companies and beyond the United States. Stewart compares this vulnerability with pre-crisis mortgage financing, but her argument remains conditional: sufficiently strong revenue growth could support the obligations. The commentary questions business economics rather than claiming AI has no useful capabilities.",
+    "content_type": "Opinion/commentary",
+    "tags": [
+      "AI investment",
+      "Financial stability",
+      "Debt",
+      "Data centers",
+      "AI pricing"
+    ],
+    "date_source": null,
+    "access_status": "Full article read in Apple News on September 30, 2026; no access barrier encountered in the existing session. Source claims not independently verified."
+  }
+]

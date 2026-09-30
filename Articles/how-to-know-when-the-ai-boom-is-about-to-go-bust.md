@@ -20,8 +20,6 @@ Jonathan Weil argues that the clearest warning of an AI bust would be major comp
 - **Potential spillover:** Weil connects OpenAI’s continued financing to Oracle’s expected revenue and debt-funded data-center construction. Trouble raising money at one major developer could affect businesses investing around it.
 - **Limits of the argument:** The article identifies a conditional financial vulnerability. It does not establish when a funding cutoff will occur or provide enough public financial information to determine the developers’ remaining cash runway.
 
-## Reading and review note
+## Source provenance
 
-Prepared September 30, 2026, from the full article body read through its conclusion in the native Apple News app. The publication timestamp above was displayed in the article; it is not the date the story was saved or summarized. The Apple News link was obtained through **Share → Copy Link**. No subscription prompt blocked reading in the existing session; access without a subscription was not tested. No separate web reference was checked for the date, so the companion JSON sets `date_source` to `null`.
-
-This review covers the single requested article, published within September 1–30, 2026. No additional articles were selected or excluded. Company developments and forecasts are attributed to the article and were not independently verified. The summary is original paraphrase, not personalized investment advice.
+Full article read in Apple News on September 30, 2026; no access barrier encountered in the existing session. Source claims not independently verified.
