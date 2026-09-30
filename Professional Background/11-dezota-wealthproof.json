@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "sequence": 11,
+  "id": "11-dezota-wealthproof",
+  "person": "Brian K. Holman",
+  "company": "Dezota LLC",
+  "resume_company_heading": "Dezota LLC",
+  "roles_as_listed": [
+    "Founder & CEO"
+  ],
+  "employment_period": {
+    "display": "December 2025 – Present",
+    "start": "2025-12",
+    "end": null,
+    "date_precision": "month",
+    "is_current": true
+  },
+  "locations_as_listed": [],
+  "company_context": null,
+  "summary_paragraphs": [
+    "Leading Dezota’s next chapter in consumer financial technology as we build WealthProof, a next-generation platform for consumer financial empowerment.",
+    "As founder and architect of the WealthProof platform, I lead product strategy and research as we prepare for launch. Our focus is helping people understand their investments, explore the evidence behind the numbers, and make more informed decisions.",
+    "This work builds on Dezota’s consulting history and years of independent research and development, bringing together my experience in executive leadership, global financial systems modernization, and designing technology around the people who use it."
+  ],
+  "metadata": {
+    "industries": [
+      "Consumer financial technology"
+    ],
+    "work_tags": [
+      "Company founding",
+      "Executive leadership",
+      "Product strategy",
+      "Platform architecture",
+      "Research and development",
+      "Consumer financial empowerment"
+    ],
+    "technologies_and_products": [
+      "WealthProof"
+    ],
+    "classification_basis": "Editorial labels derived only from this employment entry; not independently verified. Technologies may describe the employer or project context, not a proficiency rating."
+  },
+  "source": {
+    "document": "Brian Holman Resume 2025.docx",
+    "section": "Professional Experience",
+    "sha256": "881de58928195b80d9e878ef1538c9e421aa39460c97f89d64f5d4597f82ea39",
+    "extraction_note": "Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure."
+  }
+}

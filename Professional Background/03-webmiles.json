@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "sequence": 3,
+  "id": "03-webmiles",
+  "person": "Brian K. Holman",
+  "company": "WebMiles, Inc.",
+  "resume_company_heading": "WEBMILES, INC. – Sandy, Utah",
+  "roles_as_listed": [
+    "Vice President and Chief Information Officer"
+  ],
+  "employment_period": {
+    "display": "May 2000 – April 2002",
+    "start": "2000-05",
+    "end": "2002-04",
+    "date_precision": "month",
+    "is_current": false
+  },
+  "locations_as_listed": [
+    "Sandy, Utah"
+  ],
+  "company_context": "Creator of a universal airline miles loyalty rewards program that let members earn miles through partners including Kroger, Avis Car Rental, Wyndham Hotels, the WebMiles Credit Card, and online retailers. Received $40 million in venture capital funding.",
+  "summary_paragraphs": [
+    "Developed a scalable loyalty rewards management platform and online application handling millions of consumer transactions from hundreds of partners. Features included customer and partner self-service, online affiliate integration, data analytics, and email marketing."
+  ],
+  "metadata": {
+    "industries": [
+      "Consumer loyalty",
+      "E-commerce"
+    ],
+    "work_tags": [
+      "Executive leadership",
+      "Platform architecture",
+      "Transaction processing",
+      "Partner integration",
+      "Data analytics",
+      "Email marketing"
+    ],
+    "technologies_and_products": [],
+    "classification_basis": "Editorial labels derived only from this employment entry; not independently verified. Technologies may describe the employer or project context, not a proficiency rating."
+  },
+  "source": {
+    "document": "Brian Holman Resume 2025.docx",
+    "section": "Professional Experience",
+    "sha256": "881de58928195b80d9e878ef1538c9e421aa39460c97f89d64f5d4597f82ea39",
+    "extraction_note": "Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure."
+  }
+}

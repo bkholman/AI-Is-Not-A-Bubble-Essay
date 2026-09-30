@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "sequence": 7,
+  "id": "07-dezota-consulting",
+  "person": "Brian K. Holman",
+  "company": "Dezota, LLC",
+  "resume_company_heading": "Dezota, LLC. – Provo, Utah",
+  "roles_as_listed": [
+    "Principal Consultant"
+  ],
+  "employment_period": {
+    "display": "May 2018 – January 2019",
+    "start": "2018-05",
+    "end": "2019-01",
+    "date_precision": "month",
+    "is_current": false
+  },
+  "locations_as_listed": [
+    "Provo, Utah"
+  ],
+  "company_context": "Dezota is a consulting practice focused on helping businesses uncover and act on insights in their data. Services include data transformation, data analysis, decision dashboards, and general business advice.",
+  "summary_paragraphs": [
+    "Built a ready-to-use data dashboard solution for companies that made it easier to combine, analyze, and report on data without maintaining a separate data warehouse. Connected the system with common business databases and helped clients use their data to understand product mix, customer behavior, salesforce performance, and other key business measures. Also advised clients on software rollouts, international growth, and online training strategies."
+  ],
+  "metadata": {
+    "industries": [
+      "Business consulting",
+      "Data analytics"
+    ],
+    "work_tags": [
+      "Consulting",
+      "Data integration",
+      "Business intelligence",
+      "Decision dashboards",
+      "International growth",
+      "Software rollout"
+    ],
+    "technologies_and_products": [],
+    "classification_basis": "Editorial labels derived only from this employment entry; not independently verified. Technologies may describe the employer or project context, not a proficiency rating."
+  },
+  "source": {
+    "document": "Brian Holman Resume 2025.docx",
+    "section": "Professional Experience",
+    "sha256": "881de58928195b80d9e878ef1538c9e421aa39460c97f89d64f5d4597f82ea39",
+    "extraction_note": "Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure."
+  }
+}

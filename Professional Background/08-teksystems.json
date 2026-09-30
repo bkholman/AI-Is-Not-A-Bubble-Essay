@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "sequence": 8,
+  "id": "08-teksystems",
+  "person": "Brian K. Holman",
+  "company": "TEKsystems, Inc.",
+  "resume_company_heading": "TEKsystems, Inc.",
+  "roles_as_listed": [
+    "Consultant/Agile Business Analyst"
+  ],
+  "employment_period": {
+    "display": "January 2019 – February 2021",
+    "start": "2019-01",
+    "end": "2021-02",
+    "date_precision": "month",
+    "is_current": false
+  },
+  "locations_as_listed": [],
+  "company_context": null,
+  "summary_paragraphs": [
+    "Consulted as principal analyst on a modernization project for the Finance & Records Division of the Church of Jesus Christ of Latter-day Saints. The system integrated with local banks, complied with banking and tax regulations, and supported tens of thousands of child entities in over 200 countries with millions of end-users. Reverse-engineered business rules from a legacy system with nearly three million lines of code and 400 database tables. Developed functional requirements, SQL queries, and interactive user interface prototypes to support business stakeholders, software engineers, and QA engineers. Developed prototypes in Figma to support a modern React/GraphQL architecture. Worked with Azure DevOps and Jama. Served as Scrum Product Owner in partnership with subject-matter experts. The project was a year behind the business goals when I joined. Development velocity increased significantly and defects decreased significantly during my time on the project."
+  ],
+  "metadata": {
+    "industries": [
+      "Technology consulting",
+      "Financial systems"
+    ],
+    "work_tags": [
+      "Business analysis",
+      "Financial systems modernization",
+      "Legacy system analysis",
+      "Requirements development",
+      "UX prototyping",
+      "Scrum product ownership"
+    ],
+    "technologies_and_products": [
+      "SQL",
+      "Figma",
+      "React",
+      "GraphQL",
+      "Azure DevOps",
+      "Jama"
+    ],
+    "classification_basis": "Editorial labels derived only from this employment entry; not independently verified. Technologies may describe the employer or project context, not a proficiency rating."
+  },
+  "source": {
+    "document": "Brian Holman Resume 2025.docx",
+    "section": "Professional Experience",
+    "sha256": "881de58928195b80d9e878ef1538c9e421aa39460c97f89d64f5d4597f82ea39",
+    "extraction_note": "Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure."
+  },
+  "client_as_listed": "Finance & Records Division of the Church of Jesus Christ of Latter-day Saints"
+}

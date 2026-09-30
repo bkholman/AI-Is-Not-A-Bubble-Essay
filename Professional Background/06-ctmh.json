@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "sequence": 6,
+  "id": "06-ctmh",
+  "person": "Brian K. Holman",
+  "company": "CTMH, Inc.",
+  "resume_company_heading": "CTMH, Inc. – Pleasant Grove, Utah",
+  "roles_as_listed": [
+    "Chief Operating Officer, Formerly Chief Information Officer"
+  ],
+  "employment_period": {
+    "display": "August 2007 – May 2018",
+    "start": "2007-08",
+    "end": "2018-05",
+    "date_precision": "month",
+    "is_current": false
+  },
+  "locations_as_listed": [
+    "Pleasant Grove, Utah"
+  ],
+  "company_context": "For nearly three decades, a leading direct sales company serving the craft and hobby industry in the U.S., Canada, Australia, and New Zealand, with 100 employees and thousands of independent distributors. Operated under the Close To My Heart and Studio J® brands.",
+  "summary_paragraphs": [
+    "Served as lead architect of the patented Studio J® Online Photo Collage Platform. Designed Studio J as a scalable cloud platform supporting high-volume usage. Transformed the information technology team into a center of excellence using agile development best practices. Transformed the distribution center from a labor-intensive paper-based system to a high-volume electronic picking and shipping platform. Trained thousands of independent distributors at conventions and regional events. Oversaw information technology, finance and accounting, human resources, legal, and operations (including manufacturing, distribution, and sourcing). Led a 2013 expansion into Australasia that yielded over 30% growth for the company."
+  ],
+  "metadata": {
+    "industries": [
+      "Direct sales",
+      "Crafts and hobbies",
+      "Consumer photography"
+    ],
+    "work_tags": [
+      "Executive leadership",
+      "Operations management",
+      "Cloud architecture",
+      "Agile development",
+      "Distribution automation",
+      "Finance and accounting",
+      "International expansion"
+    ],
+    "technologies_and_products": [
+      "Studio J"
+    ],
+    "classification_basis": "Editorial labels derived only from this employment entry; not independently verified. Technologies may describe the employer or project context, not a proficiency rating."
+  },
+  "source": {
+    "document": "Brian Holman Resume 2025.docx",
+    "section": "Professional Experience",
+    "sha256": "881de58928195b80d9e878ef1538c9e421aa39460c97f89d64f5d4597f82ea39",
+    "extraction_note": "Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure."
+  }
+}

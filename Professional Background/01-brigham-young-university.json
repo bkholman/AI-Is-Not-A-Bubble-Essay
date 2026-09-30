@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "sequence": 1,
+  "id": "01-brigham-young-university",
+  "person": "Brian K. Holman",
+  "company": "Brigham Young University",
+  "resume_company_heading": "BRIGHAM YOUNG UNIVERSITY – Provo, Utah",
+  "roles_as_listed": [
+    "Programmer/Analyst, Library Information Systems, Harold B. Lee Library"
+  ],
+  "employment_period": {
+    "display": "April 1993 – October 1996",
+    "start": "1993-04",
+    "end": "1996-10",
+    "date_precision": "month",
+    "is_current": false
+  },
+  "locations_as_listed": [
+    "Provo, Utah"
+  ],
+  "company_context": "Brigham Young University in Provo is the flagship university of the Church of Jesus Christ of Latter-day Saints. The Harold B. Lee Library served campus faculty, staff, and approximately 28,000 students.",
+  "summary_paragraphs": [
+    "Developed an early online document delivery system using the Gopher protocol. Built one of the first web-based library collection prototypes by connecting a UNIX-based CGI application to an IBM mainframe through the Z39.50 protocol. Created the library’s first website in January 1994 and trained librarians to use web technology, including online preservation and access to special collections. Developed a data-processing engine for Library of Congress MARC records and an open-source API connecting Informix 4GL database applications to the web."
+  ],
+  "metadata": {
+    "industries": [
+      "Higher education",
+      "Library services"
+    ],
+    "work_tags": [
+      "Software development",
+      "Systems integration",
+      "Web development",
+      "Digital preservation"
+    ],
+    "technologies_and_products": [
+      "Gopher",
+      "UNIX",
+      "CGI",
+      "IBM mainframe",
+      "Z39.50",
+      "MARC",
+      "Informix 4GL"
+    ],
+    "classification_basis": "Editorial labels derived only from this employment entry; not independently verified. Technologies may describe the employer or project context, not a proficiency rating."
+  },
+  "source": {
+    "document": "Brian Holman Resume 2025.docx",
+    "section": "Professional Experience",
+    "sha256": "881de58928195b80d9e878ef1538c9e421aa39460c97f89d64f5d4597f82ea39",
+    "extraction_note": "Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure."
+  }
+}

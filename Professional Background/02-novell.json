@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "sequence": 2,
+  "id": "02-novell",
+  "person": "Brian K. Holman",
+  "company": "Novell, Inc.",
+  "resume_company_heading": "NOVELL, INC. – Provo, Utah & San Jose, California",
+  "roles_as_listed": [
+    "Web Systems Architect, Global Technical Architecture Group, Information Technology",
+    "Webmaster, Electronic Marketing"
+  ],
+  "employment_period": {
+    "display": "October 1996 – May 2000",
+    "start": "1996-10",
+    "end": "2000-05",
+    "date_precision": "month",
+    "is_current": false
+  },
+  "locations_as_listed": [
+    "Provo, Utah",
+    "San Jose, California"
+  ],
+  "company_context": "At the time, Novell was one of the largest and oldest independent software companies, with annual revenue of approximately $1 billion. Its products included the NetWare network operating system and Novell Directory Services identity management system.",
+  "summary_paragraphs": [
+    "Migrated Novell’s corporate web infrastructure from a monolithic system to a redundant n-tier architecture supporting millions of hits per day. Architected the deployment of Novell’s direct-sales online store and deployed mission-critical web systems on pre-release Novell software. Partnered with software engineering teams to enable Novell’s operating system, directory, and application server to support enterprise web applications. Transformed Novell’s intranet from static pages into a business system supporting the daily work of its global workforce. The intranet received the 1999 CIO WebBusiness 50/50 Award, recognizing it as one of the top 50 corporate intranets."
+  ],
+  "metadata": {
+    "industries": [
+      "Enterprise software"
+    ],
+    "work_tags": [
+      "Web architecture",
+      "Infrastructure modernization",
+      "E-commerce",
+      "Enterprise integration",
+      "Intranet development"
+    ],
+    "technologies_and_products": [
+      "NetWare",
+      "Novell Directory Services",
+      "N-tier architecture"
+    ],
+    "classification_basis": "Editorial labels derived only from this employment entry; not independently verified. Technologies may describe the employer or project context, not a proficiency rating."
+  },
+  "source": {
+    "document": "Brian Holman Resume 2025.docx",
+    "section": "Professional Experience",
+    "sha256": "881de58928195b80d9e878ef1538c9e421aa39460c97f89d64f5d4597f82ea39",
+    "extraction_note": "Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure."
+  }
+}
