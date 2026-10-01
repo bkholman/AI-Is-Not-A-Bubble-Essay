@@ -6,4 +6,4 @@ I believe it represents the future—or at least one aspect of the future. I can
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Vignette index](README.md) · [Essay](../README.md)

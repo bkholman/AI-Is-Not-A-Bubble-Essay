@@ -117,3 +117,7 @@ or treat an agent's suggestion as an accepted rule.
   required a human-readable Markdown companion for JSON summaries, reserved
   commit and push authorization to himself, requested this constitution, and
   permitted references to repository files as they appear on Gitea's web version.
+- **October 1, 2026:** Brian explicitly authorized the agent to choose the commit
+  message, commit, and push the essay rename to root `README.md` and its related
+  reference updates. This authorization is limited to that task; the normal
+  commit-message review requirements remain in effect for future tasks.

@@ -8,4 +8,4 @@ That purchase was an early example of a pattern that has followed me through my 
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Vignette index](README.md) · [Essay](../README.md)

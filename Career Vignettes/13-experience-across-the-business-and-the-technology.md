@@ -6,4 +6,4 @@ I bring that experience to my work with AI. I know what it takes to build these 
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md) · [Professional background](../Professional%20Background/README.md)
+[Vignette index](README.md) · [Essay](../README.md) · [Professional background](../Professional%20Background/README.md)

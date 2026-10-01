@@ -12,4 +12,4 @@ In 1988, I already believed laptops were going to be part of the way people work
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Vignette index](README.md) · [Essay](../README.md)

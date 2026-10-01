@@ -1,6 +1,6 @@
 # Prompts
 
-Writing and artwork prompts for [AI Is Not a Bubble](../AI-Is-Not-a-Bubble.md).
+Writing and artwork prompts for [AI Is Not a Bubble](../README.md).
 
 | Number | Prompt | Purpose |
 | --- | --- | --- |
@@ -10,4 +10,4 @@ Writing and artwork prompts for [AI Is Not a Bubble](../AI-Is-Not-a-Bubble.md).
 
 ---
 
-[Essay](../AI-Is-Not-a-Bubble.md) · [Career vignettes](../Career%20Vignettes/README.md) · [Professional background](../Professional%20Background/README.md) · [Article index](../Articles/README.md) · [Artwork credits](../Assets/README.md)
+[Essay](../README.md) · [Career vignettes](../Career%20Vignettes/README.md) · [Professional background](../Professional%20Background/README.md) · [Article index](../Articles/README.md) · [Artwork credits](../Assets/README.md)

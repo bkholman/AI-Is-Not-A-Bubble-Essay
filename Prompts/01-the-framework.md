@@ -53,8 +53,8 @@ This is an opinion essay, not an academic paper, investment recommendation, prod
 
 Use one title and a byline, followed by continuous prose without section headings. Add relative Markdown links to the relevant vignettes, career entries, and article summaries. Encode spaces as %20 and verify the targets. Do not link to private storage.
 
-Save the draft as AI-Is-Not-a-Bubble.md in the repository root. Finish with links to the three supporting indexes. Do not commit or push.
+Save the draft as README.md in the repository root. Finish with links to the three supporting indexes. Do not commit or push.
 
 ---
 
-[Prompt index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Prompt index](README.md) · [Essay](../README.md)

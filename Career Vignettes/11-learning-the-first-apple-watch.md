@@ -8,4 +8,4 @@ That little episode captures another part of early adoption: the rough edges are
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Vignette index](README.md) · [Essay](../README.md)

@@ -10,4 +10,4 @@ That is the kind of moment I mean when I talk about being an early adopter. I co
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Vignette index](README.md) · [Essay](../README.md)

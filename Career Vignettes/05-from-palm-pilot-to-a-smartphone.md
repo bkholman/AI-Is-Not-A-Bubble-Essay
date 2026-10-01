@@ -6,4 +6,4 @@ For me, that was another inflection point. Something I already found useful was 
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Vignette index](README.md) · [Essay](../README.md)

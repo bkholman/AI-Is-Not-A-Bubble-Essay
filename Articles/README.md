@@ -16,4 +16,4 @@ Listed chronologically. Titles link to Markdown summaries; JSON links provide th
 
 ---
 
-[Essay](../AI-Is-Not-a-Bubble.md) · [Prompt index](../Prompts/README.md)
+[Essay](../README.md) · [Prompt index](../Prompts/README.md)

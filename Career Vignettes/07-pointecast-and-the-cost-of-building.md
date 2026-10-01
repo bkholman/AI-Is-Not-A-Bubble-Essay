@@ -6,4 +6,4 @@ Building those systems was painful work. I know what it takes to turn a product 
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md) · [Career entry](../Professional%20Background/05-pointecast.md)
+[Vignette index](README.md) · [Essay](../README.md) · [Career entry](../Professional%20Background/05-pointecast.md)

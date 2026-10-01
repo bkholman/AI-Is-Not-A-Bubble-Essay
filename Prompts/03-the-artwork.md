@@ -16,4 +16,4 @@ Keep the captions short and connected to my stories. They can carry my voice: a 
 
 ---
 
-[Prompt index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Prompt index](README.md) · [Essay](../README.md)

@@ -16,4 +16,4 @@ Constraints: no text, logos, watermarks, robots, floating interface panels, or c
 
 ---
 
-[Prompt index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Prompt index](README.md) · [Essay](../README.md)

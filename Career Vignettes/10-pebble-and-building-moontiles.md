@@ -10,4 +10,4 @@ I was using and building for this technology before it had become commonplace. T
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)
+[Vignette index](README.md) · [Essay](../README.md)

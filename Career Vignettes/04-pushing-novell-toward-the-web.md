@@ -10,4 +10,4 @@ I was eventually recruited to [WebMiles](../Professional%20Background/03-webmile
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md) · [Career entry](../Professional%20Background/02-novell.md)
+[Vignette index](README.md) · [Essay](../README.md) · [Career entry](../Professional%20Background/02-novell.md)

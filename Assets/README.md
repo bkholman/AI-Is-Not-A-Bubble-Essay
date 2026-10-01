@@ -1,6 +1,6 @@
 # Artwork and attribution
 
-Local artwork for [AI Is Not a Bubble](../AI-Is-Not-a-Bubble.md). Historical computer photographs and the browser screenshot are representative examples, not photographs of Brian’s own machines or his BYU workstation. Credits do not imply endorsement of this essay.
+Local artwork for [AI Is Not a Bubble](../README.md). Historical computer photographs and the browser screenshot are representative examples, not photographs of Brian’s own machines or his BYU workstation. Credits do not imply endorsement of this essay.
 
 ## AI Is Not a Bubble cover
 
@@ -68,4 +68,4 @@ AI-generated editorial illustration created for Brian Holman’s essay using the
 
 ---
 
-[Essay](../AI-Is-Not-a-Bubble.md) · [Prompt index](../Prompts/README.md)
+[Essay](../README.md) · [Prompt index](../Prompts/README.md)
