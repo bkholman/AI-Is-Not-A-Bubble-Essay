@@ -22,4 +22,4 @@ The summaries retain the résumé’s wording with whitespace normalized. Tags a
 
 ---
 
-[Essay](../AI-Is-Not-a-Bubble-Draft.md) · [Career vignettes](../Career%20Vignettes/README.md)
+[Essay](../AI-Is-Not-a-Bubble.md) · [Career vignettes](../Career%20Vignettes/README.md) · [Prompt index](../Prompts/README.md)

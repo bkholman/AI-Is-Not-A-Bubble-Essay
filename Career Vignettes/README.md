@@ -24,4 +24,4 @@ Accounts arranged in approximate life order.
 
 ---
 
-[Essay](../AI-Is-Not-a-Bubble-Draft.md) · [Professional background](../Professional%20Background/README.md)
+[Essay](../AI-Is-Not-a-Bubble.md) · [Professional background](../Professional%20Background/README.md) · [Prompt index](../Prompts/README.md)

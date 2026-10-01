@@ -1,6 +1,6 @@
 # Artwork and attribution
 
-Local artwork for [AI Is Not a Bubble](../AI-Is-Not-a-Bubble-Draft.md). Historical computer photographs and the browser screenshot are representative examples, not photographs of Brian’s own machines or his BYU workstation. Credits do not imply endorsement of this essay.
+Local artwork for [AI Is Not a Bubble](../AI-Is-Not-a-Bubble.md). Historical computer photographs and the browser screenshot are representative examples, not photographs of Brian’s own machines or his BYU workstation. Credits do not imply endorsement of this essay.
 
 ## AI Is Not a Bubble cover
 
@@ -65,3 +65,7 @@ Our changes: resized from 1093 × 1439 to 608 × 800 and converted to JPEG for t
 [Local image](conducting-the-orchestra.jpg) · [Generation prompt](../Prompts/02-orchestra-illustration.md)
 
 AI-generated editorial illustration created for Brian Holman’s essay using the built-in image-generation tool on October 1, 2026. It illustrates the conductor metaphor and does not depict an actual performance or an identifiable portrait of Brian. Saved as a 1536 × 1024 JPEG web rendition. This illustration is not offered under a Creative Commons license here.
+
+---
+
+[Essay](../AI-Is-Not-a-Bubble.md) · [Prompt index](../Prompts/README.md)

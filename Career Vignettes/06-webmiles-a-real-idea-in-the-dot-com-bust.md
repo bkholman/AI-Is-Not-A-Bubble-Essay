@@ -14,4 +14,4 @@ That is why the comparison with today’s AI boom is personal to me. I have seen
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble-Draft.md) · [Career entry](../Professional%20Background/03-webmiles.md)
+[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md) · [Career entry](../Professional%20Background/03-webmiles.md)

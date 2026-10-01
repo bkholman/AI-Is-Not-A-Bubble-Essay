@@ -13,3 +13,7 @@ Composition: wide landscape, conductor centered in foreground, orchestra extendi
 Lighting: warm amber stage lights with subdued deep teal shadows; purposeful, optimistic, energetic, dignified.
 Constraints: no text, logos, watermarks, robots, floating interface panels, or circuit-board gimmicks. An illustration of a metaphor, not a documentary photograph.
 ```
+
+---
+
+[Prompt index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)

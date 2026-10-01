@@ -10,4 +10,4 @@ I have founded companies, raised venture funding, and worked deeply in technolog
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble-Draft.md)
+[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)

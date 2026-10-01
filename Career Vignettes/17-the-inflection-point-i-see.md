@@ -12,4 +12,4 @@ AI is not a bubble.
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble-Draft.md)
+[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)

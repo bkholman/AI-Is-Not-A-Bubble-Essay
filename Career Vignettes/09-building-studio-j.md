@@ -12,4 +12,4 @@ When I look at what I can accomplish with AI in a few weeks, I am comparing it w
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble-Draft.md) · [Career entry](../Professional%20Background/06-ctmh.md)
+[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md) · [Career entry](../Professional%20Background/06-ctmh.md)

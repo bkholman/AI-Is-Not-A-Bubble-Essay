@@ -12,4 +12,8 @@ Link my reference to *Instant JavaScript* directly to [my book page](https://www
 
 For the conductor metaphor, I want an original illustration that conveys what it feels like to bring my experience and judgment to an extraordinary orchestra of capability. 
 
-Keep the captions short and connected to my stories. They can carry my voice: a cow becoming a computer and a different future; yellow legal pads beside my Tandy and a hundred words a minute; the graphical web making possibilities visible; a grand vision that remained difficult to execute; and experience I can now put to work. 
+Keep the captions short and connected to my stories. They can carry my voice: a cow becoming a computer and a different future; yellow legal pads beside my Tandy and a hundred words a minute; the graphical web making possibilities visible; a grand vision that remained difficult to execute; and experience I can now put to work.
+
+---
+
+[Prompt index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)

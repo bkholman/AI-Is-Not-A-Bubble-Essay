@@ -14,4 +14,4 @@ My boss had come from Hewlett-Packard and had a connection with Prentice Hall. W
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble-Draft.md) · [Career entry](../Professional%20Background/01-brigham-young-university.md)
+[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md) · [Career entry](../Professional%20Background/01-brigham-young-university.md)

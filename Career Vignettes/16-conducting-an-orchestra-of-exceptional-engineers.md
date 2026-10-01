@@ -8,4 +8,4 @@ Now it feels as though I have an entire team of those exceptionally productive e
 
 ---
 
-[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble-Draft.md)
+[Vignette index](README.md) · [Essay](../AI-Is-Not-a-Bubble.md)

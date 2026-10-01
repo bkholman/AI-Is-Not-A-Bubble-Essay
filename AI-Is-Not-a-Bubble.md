@@ -4,7 +4,7 @@
 
 <img src="Assets/ai-is-not-a-bubble.jpg" alt="Illustrated computer chip on a solid foundation beneath a small bubble" width="480" />
 
-I know what it costs to turn an idea into working software.
+**I know what it costs to turn an idea into working software.**
 
 I have raised venture capital, built companies, designed platforms, hired engineers, and lived through the long, expensive distance between knowing what a product should do and getting it to do it. I have spent more than thirty years moving between the keyboard, the architecture diagram, and the executive office. I have been a programmer, a web architect, a chief technology officer, a chief product officer, a chief operating officer, a president, and a CEO.
 
@@ -14,15 +14,17 @@ In less than a month, working with AI agents, I have made progress that feels eq
 
 Read that again.
 
-That is my assessment of my own work, not a controlled experiment or a claim that every person will see the same result. But I know the work. I know the decisions, the dependencies, the engineering effort, and the meetings that used to stand between an idea and its implementation. And I am watching that distance collapse.
+That is my assessment of my own work, not a controlled experiment or a claim that every person will see the same result. But I know the work. I know the decisions, the dependencies, the engineering effort, and the meetings that used to stand between an idea and its implementation.
+
+> **“I am watching that distance collapse.”**
 
 When I describe the change as a [hundredfold increase in productivity](Career%20Vignettes/15-a-year-of-work-in-less-than-a-month.md), I am trying to communicate the scale of what it feels like to sit in that chair. A little faster does not come close. A better autocomplete does not come close.
 
-This is a different way to build.
+**This is a different way to build.**
 
 I read the articles warning that AI is overhyped, that the bubble is about to burst, that too much money is being spent, and that we could be heading toward economic disaster. Some raise serious questions. But when those warnings become a verdict on the technology itself, they miss what is happening in front of me.
 
-AI is not a bubble.
+**AI is not a bubble.**
 
 I believe it is the most consequential expansion of human productive capability I have encountered in my lifetime.
 
@@ -40,13 +42,17 @@ I could see a use for that machine long before bringing a laptop to class became
 
 *Everyone else had a yellow legal pad. I had a Tandy—and a hundred words a minute. Model 102 in front, Model 200 behind. Photo: [mk97007, CC BY 2.0](Assets/README.md#tandy-model-102-and-model-200); resized and compressed.*
 
-Later, as a [programmer in BYU’s Harold B. Lee Library](Professional%20Background/01-brigham-young-university.md), I was working with Gopher when I downloaded [Mosaic](Career%20Vignettes/03-seeing-the-web-through-mosaic.md) onto my DEC Alpha workstation. Seeing the graphical web for the first time was one of those moments you remember. This web thing was going to be awesome. In January 1994, I created the library’s first website and put special collections online. I later co-authored [*Instant JavaScript*](https://www.dezota.com/about/leadership/brian-holman/instant-javascript/) as the web was becoming a place to build applications.
+Later, as a [programmer in BYU’s Harold B. Lee Library](Professional%20Background/01-brigham-young-university.md), I was working with Gopher when I downloaded [Mosaic](Career%20Vignettes/03-seeing-the-web-through-mosaic.md) onto my DEC Alpha workstation. Seeing the graphical web for the first time was one of those moments you remember. This web thing was going to be awesome.
+
+In January 1994, I created the library’s first website and put special collections online. I later co-authored [*Instant JavaScript*](https://www.dezota.com/about/leadership/brian-holman/instant-javascript/) as the web was becoming a place to build applications.
 
 <img src="Assets/ncsa-mosaic.png" alt="NCSA Mosaic for X displaying a graphical web page with text, links, and images" width="620" />
 
 *The graphical web made the possibilities visible. Representative Mosaic screenshot; [source and license notices](Assets/README.md#ncsa-mosaic).*
 
-At [Novell](Professional%20Background/02-novell.md), I spent four years trying to bring a networking giant into the web age. We built online commerce, worked to make NetWare more web-aware, and developed an award-winning intranet. I wanted the web embedded in what the company did. From my perspective, the organization was too attached to its past. Seeing the opportunity was easier than getting everyone to move toward it.
+At [Novell](Professional%20Background/02-novell.md), I spent four years trying to bring a networking giant into the web age. We built online commerce, worked to make NetWare more web-aware, and developed an award-winning intranet. I wanted the web embedded in what the company did.
+
+From my perspective, the organization was too attached to its past. Seeing the opportunity was easier than getting everyone to move toward it.
 
 Then I was recruited to [WebMiles](Professional%20Background/03-webmiles.md), my first executive job and first venture-funded startup experience. We raised $40 million to build a universal airline-miles loyalty program. Our Ralphs pilot with Kroger showed what we called the loyalty effect: customers would drive past a closer grocery store to earn rewards at another one.
 
@@ -60,7 +66,9 @@ At [Geolux](Professional%20Background/04-geolux-communications.md) and then [Poi
 
 Later, when I returned to BYU for my [executive MBA](Career%20Vignettes/08-byu-executive-mba-the-first-iphone.md) after seven years as an executive, I bought the first iPhone. My classmates had BlackBerrys and thought I had paid an outrageous price. Why spend so much on this iPhone thing? My answer was: guys, trust me. The iPhone is the future.
 
-At [Close To My Heart](Professional%20Background/06-ctmh.md), I was the lead architect of [Studio J](Career%20Vignettes/09-building-studio-j.md), our [patented](https://www.dezota.com/about/leadership/brian-holman/patents/) online photo collage and digital scrapbooking platform. We invested millions of dollars in research and development and brought in a private R&D shop to supplement our internal team. Even with that help, we were probably about a year behind schedule as we worked to get it out. We had a grand vision, but execution was extraordinarily difficult. I know how much effort lived behind the apparently simple experience a customer saw on a screen.
+At [Close To My Heart](Professional%20Background/06-ctmh.md), I was the lead architect of [Studio J](Career%20Vignettes/09-building-studio-j.md), our [patented](https://www.dezota.com/about/leadership/brian-holman/patents/) online photo collage and digital scrapbooking platform. We invested millions of dollars in research and development and brought in a private R&D shop to supplement our internal team. Even with that help, we were probably about a year behind schedule as we worked to get it out.
+
+We had a grand vision, but execution was extraordinarily difficult. I know how much effort lived behind the apparently simple experience a customer saw on a screen.
 
 ![A finished Studio J scrapbook spread of the Holman family’s April 2014 trip to Moab](Assets/studio-j-moab-layout.jpg)
 
@@ -94,7 +102,7 @@ My experience with ChatGPT-6 Astra feels like [conducting an orchestra](Career%2
 
 I bring the vision, the business context, the architecture, and the judgment. I decide what we are trying to accomplish. I direct the work, question the results, and keep the pieces moving toward a coherent product. But now I can work with agents that help me think through problems and carry the work forward at a pace I could scarcely have imagined.
 
-The extraordinary part is the continuity. I can move from strategy into architecture, from architecture into implementation, and from a problem into an attempted solution without putting each transition into somebody else’s queue.
+**The extraordinary part is the continuity.** I can move from strategy into architecture, from architecture into implementation, and from a problem into an attempted solution without putting each transition into somebody else’s queue.
 
 I am still responsible for knowing whether the result makes sense. My experience matters. So does testing. But my ability to act on that experience has changed dramatically.
 
@@ -106,7 +114,9 @@ The investment that went into training these models has reached my desk as usefu
 
 That is why the skeptical coverage leaves me impatient, even when I understand the concern behind it.
 
-[Jonathan Weil’s Wall Street Journal article](Articles/how-to-know-when-the-ai-boom-is-about-to-go-bust.md) asks what happens when companies that depend on outside financing can no longer obtain it. [CNBC’s account of Michael Burry’s warning](Articles/2026-09-28-cnbc-burry-ai-bubble.md) questions whether revenue can sustain the capital spending. Those are real business questions. I have raised money and managed budgets. I understand that cash can run out while a product still has promise.
+[Jonathan Weil’s Wall Street Journal article](Articles/how-to-know-when-the-ai-boom-is-about-to-go-bust.md) asks what happens when companies that depend on outside financing can no longer obtain it. [CNBC’s account of Michael Burry’s warning](Articles/2026-09-28-cnbc-burry-ai-bubble.md) questions whether revenue can sustain the capital spending.
+
+Those are real business questions. I have raised money and managed budgets. I understand that cash can run out while a product still has promise.
 
 [Heather Stewart in the Guardian](Articles/2026-09-20-guardian-ai-bubble-collapse.md) worries about debt and future compute obligations spreading losses through interconnected companies. [Ingmar Rentzhog in Forbes](Articles/2026-09-28-forbes-ai-financial-crisis.md) describes how AI losses could combine with energy and climate shocks to create a credit crisis. [ABC News’s Australian report](Articles/2026-09-23-abc-data-centre-funding.md) raises questions about debt-funded data centers and inflation arriving before productivity gains. These arguments deserve attention on their own terms.
 
@@ -118,13 +128,21 @@ If an AI company fails, its failure will tell us something about its financing, 
 
 The critiques of usefulness are closer to the heart of my disagreement.
 
-[Business Insider’s account of Steve Hanke’s skepticism](Articles/2026-02-21-business-insider-hanke-ai-warning.md) brings together doubts about language models and doubts about spectacular revenue forecasts. I do not need a model to reach human-level intelligence in every dimension before it can transform my work. I need it to help me solve real problems. It is doing that now.
+[Business Insider’s account of Steve Hanke’s skepticism](Articles/2026-02-21-business-insider-hanke-ai-warning.md) brings together doubts about language models and doubts about spectacular revenue forecasts.
 
-[Fortune’s report on Kara Swisher](Articles/2026-04-13-fortune-swisher-ai-overhyped.md) emphasizes resistance to artificial experiences and the desire for authentic human connection. I share that desire. I am using AI to help build a useful product, with a purpose that comes from me. The human ambition is still at the center of the work.
+I do not need a model to reach human-level intelligence in every dimension before it can transform my work. I need it to help me solve real problems. It is doing that now.
 
-[In Entrepreneur, Solo Ceesay argues that the revolution is mostly marketing](Articles/2026-04-27-entrepreneur-ai-marketing-hype.md), pointing to limited measured effects and weak demand. I can accept that many organizations have yet to change how they work. My own experience shows me what becomes possible when someone with deep domain knowledge takes these tools seriously and reorganizes the work around them. I believe many others are going to discover that possibility.
+[Fortune’s report on Kara Swisher](Articles/2026-04-13-fortune-swisher-ai-overhyped.md) emphasizes resistance to artificial experiences and the desire for authentic human connection.
 
-And [Sanjot Malhi’s Fortune commentary](Articles/2026-08-21-fortune-ai-productivity-hype.md), despite its skeptical headline, makes a distinction I welcome: many AI productivity businesses may lack a durable advantage while AI itself has enormous potential. I agree. A crowded field of weak products does not diminish the power available to someone who knows what to build.
+I share that desire. I am using AI to help build a useful product, with a purpose that comes from me. The human ambition is still at the center of the work.
+
+[In Entrepreneur, Solo Ceesay argues that the revolution is mostly marketing](Articles/2026-04-27-entrepreneur-ai-marketing-hype.md), pointing to limited measured effects and weak demand.
+
+I can accept that many organizations have yet to change how they work. My own experience shows me what becomes possible when someone with deep domain knowledge takes these tools seriously and reorganizes the work around them. I believe many others are going to discover that possibility.
+
+And [Sanjot Malhi’s Fortune commentary](Articles/2026-08-21-fortune-ai-productivity-hype.md), despite its skeptical headline, makes a distinction I welcome: many AI productivity businesses may lack a durable advantage while AI itself has enormous potential.
+
+I agree. A crowded field of weak products does not diminish the power available to someone who knows what to build.
 
 My thirty years of experience have become more valuable to me because I can put more of them to work. Architecture, product judgment, leadership, and the ability to recognize a bad answer all matter. AI gives those capabilities a much wider reach.
 
@@ -132,7 +150,7 @@ That is the opportunity I wish more people would see.
 
 Think about the person with a useful idea who could never afford the team. The specialist who understands a problem but has never had the resources to build a solution. The small business that has been living with an inadequate system because replacing it was beyond its budget.
 
-How many ideas have stayed trapped behind the cost of execution?
+> **“How many ideas have stayed trapped behind the cost of execution?”**
 
 I believe we are beginning to lower that barrier on a scale we have barely imagined. More people will be able to try. More experiments will become possible. Some will fail. Some will become products, businesses, and ways of working that we do not yet have names for.
 
@@ -150,8 +168,12 @@ That is why I am so passionate about this moment.
 
 I am sitting in the conductor’s chair, and the orchestra has started to play.
 
-AI is not a bubble. We are at the beginning of something much bigger than we can yet see.
+**AI is not a bubble.**
+
+We are at the beginning of something much bigger than we can yet see.
 
 ---
 
-[Career vignettes](Career%20Vignettes/README.md) · [Professional background](Professional%20Background/README.md) · [Article index](Articles/README.md) · [Artwork credits](Assets/README.md) · [Brian’s Dezota biography](https://www.dezota.com/about/leadership/brian-holman/)
+*This essay is my voice and my thoughts, accelerated and supported by AI. You can see the process I used with ChatGPT-6.1 Sol to develop it—including the source material, career stories, and prompts—in the [AI Is Not a Bubble repository on GitHub](https://github.com/bkholman/AI-Is-Not-A-Bubble-Essay).*
+
+[Career vignettes](Career%20Vignettes/README.md) · [Professional background](Professional%20Background/README.md) · [Article index](Articles/README.md) · [Artwork credits](Assets/README.md) · [Prompt index](Prompts/README.md) · [Brian’s Dezota biography](https://www.dezota.com/about/leadership/brian-holman/)
