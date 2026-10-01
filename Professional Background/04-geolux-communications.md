@@ -14,7 +14,7 @@ A publisher of hard-skills online multimedia training, tools, and assessments fo
 
 ## Experience summary
 
-Geolux was founded in December 2001 by combining three independent companies serving distinct markets. Developed advanced multimedia content for the subsidiaries. Created a consolidated technology platform for e-learning content authoring, delivery, and management to serve all subsidiaries. The content and platform supported advanced industrial training for companies such as Ford and Boeing. Began piloting the platform with outside customers through the LearningOptics subsidiary. Negotiated the spinout of LearningOptics as an independent company that was later renamed PointeCast.
+Geolux was founded in December 2001 by combining three independent companies serving distinct markets. Developed advanced multimedia content for the subsidiaries. Created a consolidated technology platform for e-learning content authoring, delivery, and management to serve all subsidiaries. The content and platform supported advanced industrial training for companies such as Ford and Boeing. Began piloting the platform with outside customers through the LearningOptics subsidiary. Negotiated the spinout of LearningOptics as an independent company that was later renamed [PointeCast](05-pointecast.md).
 
 ## Classification
 
@@ -26,3 +26,7 @@ Editorial labels derived only from this employment entry; not independently veri
 ## Source
 
 Brian Holman Resume 2025.docx, Professional Experience. Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure.
+
+---
+
+[Professional background](README.md) · [JSON](04-geolux-communications.json)

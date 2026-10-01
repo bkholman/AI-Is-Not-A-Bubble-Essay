@@ -16,3 +16,7 @@ Business Insider reports economist Steve Hanke’s warning that enthusiasm for A
 ## Source provenance
 
 Full article read in Apple News on September 30, 2026; no access barrier encountered in the existing session. Source claims not independently verified.
+
+---
+
+[Article index](README.md) · [JSON](2026-02-21-business-insider-hanke-ai-warning.json)

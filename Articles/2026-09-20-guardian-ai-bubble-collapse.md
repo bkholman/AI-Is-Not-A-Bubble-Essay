@@ -16,3 +16,7 @@ Heather Stewart argues that the financial structure supporting the AI boom may p
 ## Source provenance
 
 Full article read in Apple News on September 30, 2026; no access barrier encountered in the existing session. Source claims not independently verified.
+
+---
+
+[Article index](README.md) · [JSON](2026-09-20-guardian-ai-bubble-collapse.json)

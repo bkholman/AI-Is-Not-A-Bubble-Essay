@@ -19,3 +19,7 @@ Source: Brian Holman Resume 2025.docx, Professional Experience. These files use 
 | 11 | Dezota LLC | December 2025 – Present | [Markdown](11-dezota-wealthproof.md) · [JSON](11-dezota-wealthproof.json) |
 
 The summaries retain the résumé’s wording with whitespace normalized. Tags are editorial classifications of the corresponding entry. Claims, dates, and metrics are attributed to the résumé and have not been independently verified. Empty technology or location lists mean that the entry does not name them.
+
+---
+
+[Essay](../AI-Is-Not-a-Bubble-Draft.md) · [Career vignettes](../Career%20Vignettes/README.md)

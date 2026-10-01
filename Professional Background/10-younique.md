@@ -24,3 +24,7 @@ Editorial labels derived only from this employment entry; not independently veri
 ## Source
 
 Brian Holman Resume 2025.docx, Professional Experience. Résumé wording preserved with whitespace normalized. Role-specific dates are not supplied when the résumé gives only a combined company tenure.
+
+---
+
+[Professional background](README.md) · [JSON](10-younique.json)

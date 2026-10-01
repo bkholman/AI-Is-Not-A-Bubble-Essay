@@ -39,7 +39,7 @@ or treat an agent's suggestion as an accepted rule.
 ## Repository boundary
 
 - Make file changes only in this repository:
-  `/Users/bholman/Documents/AI-Is-Not-A-Bubble-Essay`.
+  `~/Documents/AI-Is-Not-A-Bubble-Essay`.
 - Do not modify the WealthProof repository or the Dezota website repository.
 - Read relevant WealthProof news-summary guidance when needed to apply Brian's
   requested summary standards. This reference access does not authorize changes,
@@ -55,7 +55,7 @@ or treat an agent's suggestion as an accepted rule.
   and metadata consistent.
 - Apply the WealthProof news-summary standards Brian requested, summarized below.
   The reference consulted when establishing these rules was
-  `/Users/bholman/Development/WealthProof/client/public/news-curation-task.md`.
+  `~/Development/WealthProof/client/public/news-curation-task.md`.
   Its app-specific import workflow does not authorize importing this essay's work.
 - Read the actual article sufficiently to summarize it. For a request about the
   current Apple News screen, inspect the native app and read the article through
@@ -97,6 +97,16 @@ or treat an agent's suggestion as an accepted rule.
   Prefer repository-relative Markdown links within project documents so they
   remain usable on Gitea. Use verified web URLs when linking directly to the
   server; do not guess its web address from the Git SSH remote.
+- Cross-link related essay passages, career vignettes, professional-history
+  entries, and article summaries with relative Markdown links. Resolve each link
+  from its containing document, encode spaces as `%20`, and verify that its target
+  exists. Keep links to private documents out of publication files.
+- Write references to documents under the user's home directory with `~/`,
+  for example `~/Development/WealthProof/`, rather than a machine-specific
+  absolute home-directory prefix. Apply this convention in repository documents
+  and user-facing path text. Continue using repository-relative links for files
+  within this repository. Expand `~` internally when a tool requires an absolute
+  filesystem path.
 - Keep editorial choices that Brian has not yet specified open. The essay title
   alone does not establish an approved outline, argument, or treatment of evidence.
 

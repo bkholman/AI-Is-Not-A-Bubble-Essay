@@ -16,3 +16,7 @@ Solo Ceesay argues that AI promotion has outrun demonstrated demand, profitabili
 ## Source provenance
 
 Full article read in Apple News on September 30, 2026; no access barrier encountered in the existing session. Source claims not independently verified.
+
+---
+
+[Article index](README.md) · [JSON](2026-04-27-entrepreneur-ai-marketing-hype.json)

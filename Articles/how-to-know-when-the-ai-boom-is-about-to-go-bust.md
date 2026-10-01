@@ -23,3 +23,7 @@ Jonathan Weil argues that the clearest warning of an AI bust would be major comp
 ## Source provenance
 
 Full article read in Apple News on September 30, 2026; no access barrier encountered in the existing session. Source claims not independently verified.
+
+---
+
+[Article index](README.md) · [JSON](how-to-know-when-the-ai-boom-is-about-to-go-bust.json)

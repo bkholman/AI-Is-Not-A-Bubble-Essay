@@ -13,3 +13,7 @@ Listed chronologically. Titles link to Markdown summaries; JSON links provide th
 | 2026-09-27 | The Wall Street Journal | [How to Know When the AI Boom Is About to Go Bust](how-to-know-when-the-ai-boom-is-about-to-go-bust.md) | [JSON](how-to-know-when-the-ai-boom-is-about-to-go-bust.json) |
 | 2026-09-28 | CNBC | [Michael Burry believes the AI bubble 'may burst' sooner than he first believed](2026-09-28-cnbc-burry-ai-bubble.md) | [JSON](2026-09-28-cnbc-burry-ai-bubble.json) |
 | 2026-09-28 | Forbes | [What Would Turn Oil Shock, AI Bubble, El Niño Into A Financial Crisis?](2026-09-28-forbes-ai-financial-crisis.md) | [JSON](2026-09-28-forbes-ai-financial-crisis.json) |
+
+---
+
+[Essay](../AI-Is-Not-a-Bubble-Draft.md)

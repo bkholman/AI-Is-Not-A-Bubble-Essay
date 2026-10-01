@@ -16,3 +16,7 @@ ABC News reports that Australian data-center operators raised at least A$35 bill
 ## Source provenance
 
 Full article read in Apple News on September 30, 2026; no access barrier encountered in the existing session. Source claims not independently verified.
+
+---
+
+[Article index](README.md) · [JSON](2026-09-23-abc-data-centre-funding.json)
