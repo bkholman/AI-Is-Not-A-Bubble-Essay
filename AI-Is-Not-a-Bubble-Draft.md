@@ -1,6 +1,8 @@
 # AI Is Not a Bubble
 
-*By Brian Holman*
+*By Brian Holman, Founder & CEO, Dezota*
+
+<img src="Assets/ai-is-not-a-bubble.jpg" alt="Illustrated computer chip on a solid foundation beneath a small bubble" width="480" />
 
 I know what it costs to turn an idea into working software.
 
@@ -26,11 +28,23 @@ I believe it is the most consequential expansion of human productive capability 
 
 In the summer of 1982, when I was eleven, I spent $500 earned selling a cow at the stock show on [my first computer](Career%20Vignettes/01-my-first-computer-and-the-stock-show-cow.md). My mom thought I was wasting my money. I started programming and thought: this is the future. I did not want to be a farmer like my dad. I wanted to do this. I sold my first software application at fourteen.
 
+<img src="Assets/trs-80-color-computer.jpg" alt="A Radio Shack TRS-80 Color Computer, representative of the model Brian bought in 1982" width="480" />
+
+*A stock-show cow became a computer—and a different future. Photo: [Bilby, CC BY 3.0](Assets/README.md#trs-80-color-computer); resized and compressed.*
+
 As a BYU freshman in autumn 1988, I took [a world history class](Career%20Vignettes/02-byu-undergraduate-the-only-laptop-in-history-class.md) with no textbook. The professor lectured, and everyone else tried to keep up on yellow legal pads. I had a Tandy Model 102 portable computer that I had bought in high school. I was typing a hundred words a minute. Classmates asked for copies of my notes.
 
 I could see a use for that machine long before bringing a laptop to class became ordinary.
 
-Later, as a [programmer in BYU’s Harold B. Lee Library](Professional%20Background/01-brigham-young-university.md), I was working with Gopher when I downloaded [Mosaic](Career%20Vignettes/03-seeing-the-web-through-mosaic.md) onto my DEC Alpha workstation. Seeing the graphical web for the first time was one of those moments you remember. This web thing was going to be awesome. In January 1994, I created the library’s first website and put special collections online. I later co-authored *Instant JavaScript* as the web was becoming a place to build applications.
+<img src="Assets/tandy-102-and-200.jpg" alt="Tandy Model 102 portable computer in front of a Model 200" width="420" />
+
+*Everyone else had a yellow legal pad. I had a Tandy—and a hundred words a minute. Model 102 in front, Model 200 behind. Photo: [mk97007, CC BY 2.0](Assets/README.md#tandy-model-102-and-model-200); resized and compressed.*
+
+Later, as a [programmer in BYU’s Harold B. Lee Library](Professional%20Background/01-brigham-young-university.md), I was working with Gopher when I downloaded [Mosaic](Career%20Vignettes/03-seeing-the-web-through-mosaic.md) onto my DEC Alpha workstation. Seeing the graphical web for the first time was one of those moments you remember. This web thing was going to be awesome. In January 1994, I created the library’s first website and put special collections online. I later co-authored [*Instant JavaScript*](https://www.dezota.com/about/leadership/brian-holman/instant-javascript/) as the web was becoming a place to build applications.
+
+<img src="Assets/ncsa-mosaic.png" alt="NCSA Mosaic for X displaying a graphical web page with text, links, and images" width="620" />
+
+*The graphical web made the possibilities visible. Representative Mosaic screenshot; [source and license notices](Assets/README.md#ncsa-mosaic).*
 
 At [Novell](Professional%20Background/02-novell.md), I spent four years trying to bring a networking giant into the web age. We built online commerce, worked to make NetWare more web-aware, and developed an award-winning intranet. I wanted the web embedded in what the company did. From my perspective, the organization was too attached to its past. Seeing the opportunity was easier than getting everyone to move toward it.
 
@@ -46,7 +60,11 @@ At [Geolux](Professional%20Background/04-geolux-communications.md) and then [Poi
 
 Later, when I returned to BYU for my [executive MBA](Career%20Vignettes/08-byu-executive-mba-the-first-iphone.md) after seven years as an executive, I bought the first iPhone. My classmates had BlackBerrys and thought I had paid an outrageous price. Why spend so much on this iPhone thing? My answer was: guys, trust me. The iPhone is the future.
 
-At [Close To My Heart](Professional%20Background/06-ctmh.md), I was the lead architect of [Studio J](Career%20Vignettes/09-building-studio-j.md), our patented online photo collage and digital scrapbooking platform. We invested millions of dollars in research and development and brought in a private R&D shop to supplement our internal team. Even with that help, we were probably about a year behind schedule as we worked to get it out. We had a grand vision, but execution was extraordinarily difficult. I know how much effort lived behind the apparently simple experience a customer saw on a screen.
+At [Close To My Heart](Professional%20Background/06-ctmh.md), I was the lead architect of [Studio J](Career%20Vignettes/09-building-studio-j.md), our [patented](https://www.dezota.com/about/leadership/brian-holman/patents/) online photo collage and digital scrapbooking platform. We invested millions of dollars in research and development and brought in a private R&D shop to supplement our internal team. Even with that help, we were probably about a year behind schedule as we worked to get it out. We had a grand vision, but execution was extraordinarily difficult. I know how much effort lived behind the apparently simple experience a customer saw on a screen.
+
+![A finished Studio J scrapbook spread of the Holman family’s April 2014 trip to Moab](Assets/studio-j-moab-layout.jpg)
+
+*A grand vision. Millions in R&D. Still probably a year behind. This finished family scrapbook spread shows what Studio J made possible. [Image source](Assets/README.md#studio-j-moab-layout).*
 
 Later, I worked on [global financial systems modernization](Professional%20Background/08-teksystems.md), [geospatial analytics](Professional%20Background/09-aeon-ai.md), and the transformation of a global company’s commerce platform. I became President of [Younique](Professional%20Background/10-younique.md). Today, I am back at [Dezota](Professional%20Background/11-dezota-wealthproof.md), building WealthProof to help people understand their investments and make more informed decisions.
 
@@ -69,6 +87,10 @@ With AI, I think we are still underestimating the change.
 I had used [earlier AI coding tools](Career%20Vignettes/14-early-ai-tools-and-the-change-i-feel-now.md) in JetBrains. They helped, but sometimes I felt as though I was telling them the same thing twenty times before they got it right. I know the difference between a promising tool that is maddening to use and a partnership that changes the work.
 
 My experience with ChatGPT-6 Astra feels like [conducting an orchestra](Career%20Vignettes/16-conducting-an-orchestra-of-exceptional-engineers.md).
+
+![A conductor guiding a large orchestra under warm stage lights](Assets/conducting-the-orchestra.jpg)
+
+*The experience matters. Now I can put more of it to work. [AI-generated editorial illustration](Assets/README.md#conducting-the-orchestra).*
 
 I bring the vision, the business context, the architecture, and the judgment. I decide what we are trying to accomplish. I direct the work, question the results, and keep the pieces moving toward a coherent product. But now I can work with agents that help me think through problems and carry the work forward at a pace I could scarcely have imagined.
 
@@ -132,4 +154,4 @@ AI is not a bubble. We are at the beginning of something much bigger than we can
 
 ---
 
-[Career vignettes](Career%20Vignettes/README.md) · [Professional background](Professional%20Background/README.md) · [Article index](Articles/README.md)
+[Career vignettes](Career%20Vignettes/README.md) · [Professional background](Professional%20Background/README.md) · [Article index](Articles/README.md) · [Artwork credits](Assets/README.md) · [Brian’s Dezota biography](https://www.dezota.com/about/leadership/brian-holman/)

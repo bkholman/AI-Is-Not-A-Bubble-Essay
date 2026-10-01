@@ -6,7 +6,11 @@ Suddenly I could see the graphical web. My reaction was immediate: this web thin
 
 I was working alongside people in BYU’s computer science department, and I helped bring the university into that new world through the library’s website. I put special collections online. I could see how much bigger this could become.
 
-My boss had come from Hewlett-Packard and had a connection with Prentice Hall. We proposed a book and ended up writing about JavaScript. The web was becoming a place to build things, and I wanted to be deep in that work.
+My boss had come from Hewlett-Packard and had a connection with Prentice Hall. We proposed a book and ended up writing [*Instant JavaScript*](https://www.dezota.com/about/leadership/brian-holman/instant-javascript/). The web was becoming a place to build things, and I wanted to be deep in that work.
+
+<img src="../Assets/instant-javascript-cover.jpg" alt="Restored cover of Instant JavaScript by Brian K. Holman and William Lund" width="300" />
+
+*Instant JavaScript, Prentice Hall, 1996. [Book and reflections](https://www.dezota.com/about/leadership/brian-holman/instant-javascript/) · [Cover source and restoration note](../Assets/README.md#instant-javascript-cover).*
 
 ---
 
